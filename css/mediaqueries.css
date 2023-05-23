@@ -62,3 +62,8 @@
 }
 
 }
+@media (min-width: 288px) {
+    .contenedor{
+        width: 100%;
+    }
+}
